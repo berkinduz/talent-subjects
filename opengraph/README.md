@@ -6,6 +6,7 @@ Open Graph meta tags are snippets of code that control how URLs are displayed wh
 
 <meta property="og:description" content="Get from SEO newbie to SEO pro in 8 simple steps." />
 <meta property="og:image" content="https://ahrefs.com/blog/wp-content/uploads/2019/12/fb-how-to-become-an-seo-expert.png" />`
+
 ![opengraph](https://miro.medium.com/max/700/0*ThQ_b3dWwf-Dcvmg.png)
 
 EXAMPLE OF:
