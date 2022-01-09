@@ -10,4 +10,4 @@
 
 - Prototype Pattern: The prototype pattern is a useful way to share properties among many objects of the same type. The prototype is an object that's native to JavaScript, and can be accessed by objects through the prototype chain.
 
-- Decorator Pattern: The decorator pattern works by extending an object’s behavior without changing the original object itself.
+- Decorator Pattern: Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
