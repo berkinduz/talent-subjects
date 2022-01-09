@@ -8,4 +8,6 @@
 
 - Singleton Pattern: Singletons are classes which can be instantiated once, and can be accessed globally. This single instance can be shared throughout our application, which makes Singletons great for managing global state in an application.
 
-- Prototype Pattern:
+- Prototype Pattern: The prototype pattern is a useful way to share properties among many objects of the same type. The prototype is an object that's native to JavaScript, and can be accessed by objects through the prototype chain.
+
+- Decorator Pattern: The decorator pattern works by extending an object’s behavior without changing the original object itself.
